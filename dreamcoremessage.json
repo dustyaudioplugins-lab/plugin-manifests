@@ -1,7 +1,7 @@
 {
-  "messageTitle": "Dreamcore Amp v1.0.1",
-  "message": "Dreamcore Amp hotfix update\n- Fixed FX knob delay\n- Fixed Wind Turbine 'pop' sound at 50%\n- Fixed Compressor and Overdrive button label bug",
-  "messageId": "2026-08-05-1",
+  "messageTitle": "Dreamcore Amp hotfix update",
+  "message": "Fixed FX knob delay\n- Fixed Wind Turbine 'pop' sound at 50%\n- Fixed Compressor and Overdrive button label bug",
+  "messageId": "2026-08-05-2",
   "messageLinkText": "Update here",
   "messageLinkUrl": "https://dusty-audio.myshopify.com/products/dreamcoreamp?view=dreamcore-amp"
 }
