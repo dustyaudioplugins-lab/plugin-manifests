@@ -1,5 +1,5 @@
 {
-    "latest":  "1.0.1",
+    "latest":  "1.0.2",
     "url":  "https://dusty-audio.myshopify.com/products/dreamcoreamp",
-    "notes":  "- Fixed FX knob delay\n- Fixed Wind Turbine 'pop' sound at 50%\n- Fixed Compressor and Overdrive button label bug"
+    "notes":  "Added an Amp and Cab lock"
 }
