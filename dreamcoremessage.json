@@ -1,6 +1,6 @@
 {
-  "messageTitle": "Dreamcore Amp hotfix update",
-  "message": "- Fixed FX knob delay\n- Fixed Wind Turbine 'pop' sound at 50%\n- Fixed Compressor and Overdrive button label bug",
+  "messageTitle": "Try the Amp and Cab lock in v1.0.2",
+  "message": "Turn the Gain knob all the way down, and a lock will appear under it. You can use this to keep the amp and cab bypassed. You can also lock only the cab in the settings panel.",
   "messageId": "2026-08-05-",
   "messageLinkText": "Update here",
   "messageLinkUrl": "https://dusty-audio.myshopify.com/products/dreamcoreamp?view=dreamcore-amp"
